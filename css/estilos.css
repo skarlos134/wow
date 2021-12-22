@@ -2,6 +2,19 @@ body
 {text-align: center;
 font-family: 'Courier New', Courier, monospace;
 color: chocolate;
+
+}
+
+#cabecera{
+    background: rgb(127, 128, 128);
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+    color: lightgray;
+}
+
+#cabecera #tagline{
+    font-weight: normal;
 }
 
 #container {
@@ -16,3 +29,4 @@ color: chocolate;
     text-align: center;
 
 }
+
